@@ -2,6 +2,9 @@
 
 Calculate word counts in a text file!
 
+## Authors
+Merete Lutz
+
 ## Installation
 
 ```bash
